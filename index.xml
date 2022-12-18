@@ -6,22 +6,25 @@
     <description>Recent content on Greyish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 19:32:17 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 13:41:48 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Static site,Hugo and Github</title>
+      <link>http://example.org/post/hugo-github/</link>
+      <pubDate>Sun, 18 Dec 2022 13:41:48 -0500</pubDate>
+      
+      <guid>http://example.org/post/hugo-github/</guid>
+      <description>Chasing the trend of trying to recapture what it was like to publish and do dev in the early 2000&amp;rsquo;s I&amp;rsquo;m giving Hugo a try.
+GitHub pages seems to be the perfect Geocities replacement and thus, this lives here.
+Right off the bat, things are different. Back in the days, you could conceivably open Notepad, or FrontPage and start building a page.
+Building in Hugo is not easier or different from any other moderns stack I know.</description>
+    </item>
+    
     <item>
       <title>Search</title>
       <link>http://example.org/page/search/</link>
       <pubDate>Sat, 17 Dec 2022 19:32:17 -0500</pubDate>
       
       <guid>http://example.org/page/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testpage</title>
-      <link>http://example.org/post/testpage/</link>
-      <pubDate>Sat, 17 Dec 2022 19:32:07 -0500</pubDate>
-      
-      <guid>http://example.org/post/testpage/</guid>
       <description></description>
     </item>
     
