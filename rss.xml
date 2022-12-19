@@ -23,10 +23,46 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 18 Dec 2022 20:04:09 -0500</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 10:29:33 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://marcboivin.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Stack for Experiments</title>
+                <link>https://marcboivin.github.io/post/stack-for-experiments/</link>
+                <guid isPermaLink="true">https://marcboivin.github.io/post/stack-for-experiments/</guid>
+                <pubDate>Mon, 19 Dec 2022 09:59:08 -0500</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;I used to whip up Django anytime I needed a quick web app. Frontend has gotten messy and complex so I don&amp;rsquo;t enjoy using it as part of my &amp;ldquo;move fast, test things&amp;rdquo; workflow.&lt;/p&gt;
+&lt;p&gt;Good thing APIs are most everywhere and JSON can be used as a backend frontend now. Everybody speaks JSON, you get pretty output everywhere, you can beautify it and put it in plain text, you can easily rework it by hand or by code and the files are relatively small (compared to your XML of old).&lt;/p&gt;
+&lt;p&gt;I dabble a lot in data and data processing so I keep using Python when I need to publish a simple script or a simple web service in my dev cycle.&lt;/p&gt;
+&lt;h2 id=&#34;flask-sqlite-and-click&#34;&gt;Flask, SQLite and click&lt;/h2&gt;
+&lt;p&gt;I find using Flask keep things light, readable and fast to develop. You add click on top of it and you can get a super quick and nice script with arguments, feedback, interactions.&lt;/p&gt;
+&lt;p&gt;SQLite as the data store make for a &lt;a href=&#34;https://www.sqlite.org/appfileformat.html&#34;&gt;great application file format or&lt;/a&gt; it is also pretty SQL complete so no roadblocks here. Back in the days (2007) you could do SELECT and INSERT but the funkiest of the SQL commands where not supported.&lt;/p&gt;
+&lt;p&gt;So I don&amp;rsquo;t need to learn new tools and can build on top of this simple yet flexible foundation.&lt;/p&gt;
+&lt;h2 id=&#34;csv-and-excel&#34;&gt;CSV and Excel&lt;/h2&gt;
+&lt;p&gt;This is a cluster fuck. Dat science is telling me to setup pipelines and workflows with Airflow and Kafka but I find this very time consuming and since I don&amp;rsquo;t have a specific end goal I don&amp;rsquo;t feel like this is worth my time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m interested in querying CSV as SQL because that would streamline my process, but I didn&amp;rsquo;t find anything Python, able to handle millions of CSV lines AND accept JOIN statements.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll definitely &lt;a href=&#34;https://towardsdatascience.com/analyze-csvs-with-sql-in-command-line-233202dc1241&#34;&gt;csvsql&lt;/a&gt; a try, but my JOIN requirement tells me I should suck it up and make an import script into SQLite. We&amp;rsquo;ll see.&lt;/p&gt;
+&lt;p&gt;As I write this I see SQLite has a .import function for CSV. Maybe something to test.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>A Static site, Hugo and Github</title>
