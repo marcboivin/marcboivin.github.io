@@ -23,13 +23,13 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 18 Dec 2022 20:01:12 -0500</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 20:04:09 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://marcboivin.github.io/rss.xml" />
         
         
             <item>
-                <title>A Static site,Hugo and Github</title>
+                <title>A Static site, Hugo and Github</title>
                 <link>https://marcboivin.github.io/post/hugo-github/</link>
                 <guid isPermaLink="true">https://marcboivin.github.io/post/hugo-github/</guid>
                 <pubDate>Sun, 18 Dec 2022 00:00:00 &#43;0000</pubDate>
