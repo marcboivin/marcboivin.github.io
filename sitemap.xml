@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-    <url>
-        <loc>http://example.org/post/hugo-github/</loc>
-        <lastmod>2022-12-18T13:41:48-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://example.org/</loc>
-        <lastmod>2022-12-18T13:41:48-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://example.org/post/</loc>
-        <lastmod>2022-12-18T13:41:48-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://example.org/page/</loc>
-        <lastmod>2022-12-17T19:32:17-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://example.org/page/search/</loc>
-        <lastmod>2022-12-17T19:32:17-05:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://example.org/categories/</loc>
-    </url>
-    
-    <url>
-        <loc>http://example.org/tags/</loc>
-    </url>
-    
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://marcboivin.github.io/post/hugo-github/</loc>
+    <lastmod>2022-12-18T19:52:09-05:00</lastmod>
+  </url><url>
+    <loc>https://marcboivin.github.io/</loc>
+    <lastmod>2022-12-18T19:52:09-05:00</lastmod>
+  </url><url>
+    <loc>https://marcboivin.github.io/post/</loc>
+    <lastmod>2022-12-18T19:52:09-05:00</lastmod>
+  </url><url>
+    <loc>https://marcboivin.github.io/categories/</loc>
+  </url><url>
+    <loc>https://marcboivin.github.io/tags/</loc>
+  </url>
 </urlset>

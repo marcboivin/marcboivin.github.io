@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Greyish</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2022-12-18T20:01:12-05:00</updated>
+    <id>https://marcboivin.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://marcboivin.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://marcboivin.github.io/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://marcboivin.github.io/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">A Static site,Hugo and Github</title>
+            <link rel="alternate" type="text/html" href="https://marcboivin.github.io/post/hugo-github/" />
+            <id>https://marcboivin.github.io/post/hugo-github/</id>
+            <updated>2022-12-18T19:52:09-05:00</updated>
+            <published>2022-12-18T00:00:00&#43;00:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Chasing the trend of trying to recapture what it was like to publish and do dev in the early 2000&amp;rsquo;s I&amp;rsquo;m giving Hugo a try.
+GitHub pages seems to be the perfect Geocities replacement and thus, this lives here.
+Right off the bat, things are different.</summary>
+            
+                <content type="html">&lt;p&gt;Chasing the trend of trying to recapture what it was like to publish and do dev in the early 2000&amp;rsquo;s I&amp;rsquo;m giving Hugo a try.&lt;/p&gt;
+&lt;p&gt;GitHub pages seems to be the perfect Geocities replacement and thus, this lives here.&lt;/p&gt;
+&lt;p&gt;Right off the bat, things are different. Back in the days, you could conceivably open Notepad, or FrontPage and start building a page.&lt;/p&gt;
+&lt;p&gt;Building in Hugo is not easier or different from any other moderns stack I know. Publishing seems a lot easier, mainly because there is no backend to worry about. Backend in the sense of a &amp;ldquo;dynamic backend&amp;rdquo; where a SQL database of some sort is involved.&lt;/p&gt;
+&lt;p&gt;So, took me about 5 hours of researching and testing things to get to place where I can publish. Didn&amp;rsquo;t hate the process, didn&amp;rsquo;t love it either.&lt;/p&gt;
+&lt;p&gt;Being able to write in VS Code or Notepad if I so choose is a nice touch. Being built on top of git is another one.&lt;/p&gt;
+&lt;p&gt;My current theme, Ed, is supposed to be geared towards publishing. Since I don&amp;rsquo;t intend to share much code here, I&amp;rsquo;m giving it a try.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see if this stack makes me more likely to publish more and maybe even have something to say.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
