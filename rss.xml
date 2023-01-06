@@ -23,10 +23,125 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 27 Dec 2022 12:52:36 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 14:50:11 -0500</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://marcboivin.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Microsoft Did a Sexism… maybe?</title>
+                <link>https://marcboivin.github.io/post/microsoft-did-a-sexism/</link>
+                <guid isPermaLink="true">https://marcboivin.github.io/post/microsoft-did-a-sexism/</guid>
+                <pubDate>Fri, 06 Jan 2023 14:37:09 -0500</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;So as of writing, if you search &amp;ldquo;please&amp;rdquo; in the emojis search bar on teams, you will find a womenbowing emojis. Feels wrong doesn&amp;rsquo;t it?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;static/322486299_726811235323467_1365920987673052063_n.png&#34; alt=&#34;Microsoft Teams oops&#34;&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>On Maintenance and Lifecycle in Self Service Government Systems</title>
+                <link>https://marcboivin.github.io/post/on-maintenanace-in-self-service-system/</link>
+                <guid isPermaLink="true">https://marcboivin.github.io/post/on-maintenanace-in-self-service-system/</guid>
+                <pubDate>Tue, 03 Jan 2023 20:00:42 -0500</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;i-have-something-in-mind&#34;&gt;I have something in mind&lt;/h1&gt;
+&lt;p&gt;Like many before me, being in IT for some time and having an interest in a more just and fair society, I see what&amp;rsquo;s happening in my, and many other&amp;rsquo;s, government and I want to change things.&lt;/p&gt;
+&lt;p&gt;This is it. What this is is not yet clear to me, how realistic it is I don&amp;rsquo;t know either. It&amp;rsquo;s just my unified thinking on IT, the public good, reality as I see it and my down to earth sense of &amp;ldquo;optimism is the fuel and the poison of IT projects.&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;background-there-is-a-theory-about-why-we-build-it&#34;&gt;Background: There is a theory about why we build IT&lt;/h1&gt;
+&lt;p&gt;From a philosophical point of view, ordinate systems rose from the need to organize more and more stuff. We did not invent them before the need. So it goes that we build more and more complex system because the requirement is there and not just to indulge some geek&amp;rsquo;s desire to come up with the need for a new storage system or a new programming language.&lt;/p&gt;
+&lt;p&gt;Though debatable, idea behind it that we have requirements and we try to solve them by basically try and error really speaks to me.&lt;/p&gt;
+&lt;p&gt;It does underline some inherent problems :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The winning solution often emerges from being the first solution that clears the absolute lowest bar&lt;/li&gt;
+&lt;li&gt;It almost never comes with a sustainable model for maintenance and governance over the long run&lt;/li&gt;
+&lt;li&gt;It is almost always enterprise driven so the desire to keep the solution alice stems from capital gain and not the fulfillment of the greater good.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;first--repositioning-roi-for-public-services&#34;&gt;First : Repositioning ROI for public services&lt;/h2&gt;
+&lt;p&gt;At face value, the best solution is the one that offers best value per effort spent. I would argue that Return On Investment (ROI) for the public good is not the same as for private enterprise.&lt;/p&gt;
+&lt;p&gt;Your basic public system is supposed to last decades, serve all your people and be able to provide transparency and and guidance for governing bodies and the population as a whole.&lt;/p&gt;
+&lt;p&gt;Included in the public good ROI is, of course, cost. Everyone has costs on their radar, but in the private enterprise you can always try and convince investor that pivoting or ditching something will make a better ROI on the investor&amp;rsquo;s bottom line in the end.&lt;/p&gt;
+&lt;p&gt;Not so for the public good. We, the people, still need to have the opportunity to invest heavily on core projects that will have the equivalent benefit of more cash down the road, redefined for modern democracy.&lt;/p&gt;
+&lt;h3 id=&#34;so-where-do-we-put-the-target&#34;&gt;So Where do we put the target?&lt;/h3&gt;
+&lt;p&gt;We need targets, that&amp;rsquo;s just a fact. Conventional wisdom tells us SMART is a good thing. Let&amp;rsquo;s not get into the weeds, but I&amp;rsquo;ll admit that having a goal you can measure is a good thing.&lt;/p&gt;
+&lt;p&gt;So what is the investment?
+Let&amp;rsquo;s start with :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Money&lt;/li&gt;
+&lt;li&gt;Time&lt;/li&gt;
+&lt;li&gt;The common good&lt;/li&gt;
+&lt;li&gt;The reputation of the leaders behind whatever this is&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;government-doesnt-have-a-strong-grp&#34;&gt;Government doesn&amp;rsquo;t have a strong GRP&lt;/h2&gt;
+&lt;p&gt;While I might be biased, ERP (Enterprise Resource Planning) being the thing I do day in and day out, the P part of ERP is what most administrative layers do in any public service.&lt;/p&gt;
+&lt;p&gt;Resources being incredibly scares on the public side of things, planning those things seems to be a no-brainer.&lt;/p&gt;
+&lt;p&gt;I think E is where things go amiss. Modern ERPs are incredibly complex pieces of software. People argue over wether they bring&lt;/p&gt;
+&lt;h2 id=&#34;standardization-of-core-components&#34;&gt;Standardization of core components&lt;/h2&gt;
+&lt;p&gt;My experience is that standardization is a good thing, but we always try to standardize a couple of steps too far. On the other hand if you&amp;rsquo;re framework is too vague, nodoby uses it and it sits on the table and in an XKCD comic.&lt;/p&gt;
+&lt;p&gt;The one thing I think I bring to the table is that the core component of any government body is the service provided.&lt;/p&gt;
+&lt;h2 id=&#34;where-do-i-see-private-enterprise-in-this&#34;&gt;Where do I see private enterprise in this&lt;/h2&gt;
+&lt;p&gt;There needs to be pressure to do anything in life. Pressure is easily achieve by competition and prizes. Regular enterprise is motivated by making money. Let&amp;rsquo;s not mess with success, but this should be sustaining implementation and not development.&lt;/p&gt;
+&lt;p&gt;Well tell a lie, by doing implementation, you almost always need to do some form of development. The outcome of those developments should be the main path of evolution of the GRP.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Physical Project</title>
+                <link>https://marcboivin.github.io/post/physical-project/</link>
+                <guid isPermaLink="true">https://marcboivin.github.io/post/physical-project/</guid>
+                <pubDate>Tue, 27 Dec 2022 12:55:27 -0500</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;create-physical-project-with-modern-tools-hasnt-change-that-much&#34;&gt;Create physical project with modern tools hasn&amp;rsquo;t change that much&lt;/h1&gt;
+&lt;p&gt;Almost 10 years ago, when I wanted to create with CnC and other motion systems, the Go To desktop tool was Aspire or VCarve.&lt;/p&gt;
+&lt;p&gt;I tried many, many other tools : Carbide create, Inkscape, Kiri:Moto, Fusion 360 and, somehow, I&amp;rsquo;m back with Aspire.&lt;/p&gt;
+&lt;p&gt;Not that Aspire is all I ever wanted, but I think you can stumble your way to understanding the software, as opposed to Fusion 360.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Stack for Experiments</title>
