@@ -4,15 +4,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Greyish</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-06T20:32:46-05:00</updated>
+    <updated>2023-01-06T20:39:53-05:00</updated>
     <id>https://marcboivin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://marcboivin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://marcboivin.github.io/atom.xml" />
     <author>
-            <name>reuixiy</name>
+            <name>mb</name>
             <uri>https://marcboivin.github.io/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>mjsdesign@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
@@ -20,17 +20,17 @@
             <title type="text">Microsoft Did a Sexism… maybe?</title>
             <link rel="alternate" type="text/html" href="https://marcboivin.github.io/post/microsoft-did-a-sexism/" />
             <id>https://marcboivin.github.io/post/microsoft-did-a-sexism/</id>
-            <updated>2023-01-06T20:32:10-05:00</updated>
+            <updated>2023-01-06T20:39:18-05:00</updated>
             <published>2023-01-06T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>mb</name>
+                    <uri>https://marcboivin.github.io/</uri>
+                    <email>mjsdesign@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">So as of writing, if you search &amp;ldquo;please&amp;rdquo; in the emojis search bar on teams, you will find a womenbowing emojis. Feels wrong doesn&amp;rsquo;t it?</summary>
             
                 <content type="html">&lt;p&gt;So as of writing, if you search &amp;ldquo;please&amp;rdquo; in the emojis search bar on teams, you will find a womenbowing emojis. Feels wrong doesn&amp;rsquo;t it?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://marcboivin.github.io/static/322486299_726811235323467_1365920987673052063_n.png&#34; alt=&#34;Microsoft Teams oops&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://marcboivin.github.io/images/322486299_726811235323467_1365920987673052063_n.png&#34; alt=&#34;Microsoft Teams oops&#34;&gt;&lt;/p&gt;
 </content>
             
             
@@ -52,9 +52,9 @@
             <updated>2023-01-06T14:34:05-05:00</updated>
             <published>2023-01-03T20:00:42-05:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>mb</name>
+                    <uri>https://marcboivin.github.io/</uri>
+                    <email>mjsdesign@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I have something in mind Like many before me, being in IT for some time and having an interest in a more just and fair society, I see what&amp;rsquo;s happening in my, and many other&amp;rsquo;s, government and I want to change things.</summary>
             
@@ -116,9 +116,9 @@ Let&amp;rsquo;s start with :&lt;/p&gt;
             <updated>2023-01-01T13:52:22-05:00</updated>
             <published>2022-12-27T12:55:27-05:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>mb</name>
+                    <uri>https://marcboivin.github.io/</uri>
+                    <email>mjsdesign@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Create physical project with modern tools hasn&amp;rsquo;t change that much Almost 10 years ago, when I wanted to create with CnC and other motion systems, the Go To desktop tool was Aspire or VCarve.
 I tried many, many other tools : Carbide create, Inkscape, Kiri:Moto, Fusion 360 and, somehow, I&amp;rsquo;m back with Aspire.</summary>
@@ -148,9 +148,9 @@ I tried many, many other tools : Carbide create, Inkscape, Kiri:Moto, Fusion 360
             <updated>2022-12-19T10:29:28-05:00</updated>
             <published>2022-12-19T09:59:08-05:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>mb</name>
+                    <uri>https://marcboivin.github.io/</uri>
+                    <email>mjsdesign@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">I used to whip up Django anytime I needed a quick web app. Frontend has gotten messy and complex so I don&amp;rsquo;t enjoy using it as part of my &amp;ldquo;move fast, test things&amp;rdquo; workflow.
 Good thing APIs are most everywhere and JSON can be used as a backend frontend now.</summary>
@@ -188,9 +188,9 @@ Good thing APIs are most everywhere and JSON can be used as a backend frontend n
             <updated>2022-12-18T20:04:06-05:00</updated>
             <published>2022-12-18T00:00:00&#43;00:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>mb</name>
+                    <uri>https://marcboivin.github.io/</uri>
+                    <email>mjsdesign@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Chasing the trend of trying to recapture what it was like to publish and do dev in the early 2000&amp;rsquo;s I&amp;rsquo;m giving Hugo a try.
 GitHub pages seems to be the perfect Geocities replacement and thus, this lives here.
